@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Life-at-Planets.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Almgp_automapping_shader\shaders\props shaders\grunt_world_space_automap_lightmap.shader">
+    <Files>
+      <File FileName="Assets\Almgp_automapping_shader\shaders\props shaders\grunt_world_space_automap_lightmap.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
