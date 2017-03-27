@@ -1,8 +1,17 @@
 ﻿<Properties StartupItem="Life-at-Planets.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Almgp_automapping_shader\shaders\props shaders\grunt_world_space_automap_lightmap.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Moveshipearth.js">
     <Files>
       <File FileName="Assets\Almgp_automapping_shader\shaders\props shaders\grunt_world_space_automap_lightmap.shader" Line="1" Column="1" />
+      <File FileName="Assets\redjetmove.js" Line="18" Column="17" />
+      <File FileName="Assets\bluejetmove.js" Line="18" Column="17" />
+      <File FileName="Assets\greenjetmove.js" Line="18" Column="18" />
+      <File FileName="Assets\blackjetmove.js" Line="18" Column="18" />
+      <File FileName="Assets\yellowjetmove.js" Line="3" Column="23" />
+      <File FileName="Assets\rotation_around_center.js" Line="3" Column="26" />
+      <File FileName="Assets\shipmove.js" Line="13" Column="21" />
+      <File FileName="Assets\SunFlare.js" Line="18" Column="31" />
+      <File FileName="Assets\Moveshipearth.js" Line="12" Column="45" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
